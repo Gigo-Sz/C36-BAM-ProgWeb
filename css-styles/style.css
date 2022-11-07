@@ -1,0 +1,71 @@
+/*Body*/
+body {
+    background-image: linear-gradient(rgba(225, 0, 255, 0.616), rgba(255, 238, 0, 0.925));
+        
+    font-family: cursive;
+    text-shadow: 3px 3px 3px rgba(119, 115, 115, 0.815);
+}
+/*Barra Navegación*/
+
+nav {
+    display: flex;
+    background-color: rgba(252, 246, 252, 0.719);
+    border-radius: 10px;
+    margin-left: 10px;
+    justify-content: center;
+    border: 2px solid rgba(12, 12, 12, 0.205);
+
+    ;
+}
+/*Header*/
+
+header {
+    display: flex;
+    border: 2px solid rgba(12, 12, 12, 0.205);
+    border-radius: 10px;  
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: rgba(252, 246, 252, 0.384);
+    justify-content: center;
+}  
+
+h2, h3 {
+    background-color: rgba(252, 246, 252, 0.301);
+    border-radius: 10px;
+    margin-left: 10px;
+    border: 2px solid  rgba(12, 12, 12, 0.205);
+    text-align: center;
+    
+} 
+
+p {
+    background-color: rgba(252, 246, 252, 0.301);
+    margin-left: 10px;
+    
+    border-image-width: auto;
+    border-image-width: auto;
+}    
+
+/*aside*/
+
+aside {
+    background-color:  rgba(252, 246, 252, 0.301);
+    border: 2px solid  rgba(12, 12, 12, 0.205); 
+    border-radius: 50px;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 10px;
+   
+}   
+
+footer {
+    background-color:  rgba(252, 246, 252, 0.664);
+    border: 2px solid  rgba(110, 108, 110, 0.466); 
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 10px;
+}   
